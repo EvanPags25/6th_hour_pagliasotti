@@ -1,7 +1,6 @@
 #name: Evan Pagliasoti
 #hour: HR 6
 #Assignment: Scenario 2
-from colorsys import yiq_to_rgb
 
 print('hello world')
 
