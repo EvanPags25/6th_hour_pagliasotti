@@ -4,23 +4,12 @@
 
 print("hello world")
 
-a=4
-b=6
-c=22
-print("A=4, B=6, C=22")
+numList=[6,90,73]
 
-if a > b:
-    print("a is greater than b.")
-elif a < b:
-    print("a is less than b.")
+if  numList[0] > numList[1] and numList[0] > numList[2]:
+    print("a is the biggest number")
+if  numList[1] > numList[2] and numList[1] > numList[0]:
+    print("b is the biggest number")
 else:
-    print('a is equal to b.')
-
-
-if a<b or a>c:
-    print("a is NOT the smallest number")
-if b<a or b<c:
-    print("b is the smallest number")
-else:
-    print("hello world")
+    print("c is the biggest number ")
 

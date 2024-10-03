@@ -25,4 +25,6 @@ numbers.sort()
 print (numbers)
 
 variable=(numbers[0]+numbers[1]+numbers[2])
-print (variable)
+print(variable)
+
+
