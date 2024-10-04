@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82eaea5d-a684-43f7-95a2-f56831ec0415" name="Changes" comment="added HW5">
-      <change afterPath="$PROJECT_DIR$/HW6.py" afterDir="false" />
+    <list default="true" id="82eaea5d-a684-43f7-95a2-f56831ec0415" name="Changes" comment="added HW6">
+      <change afterPath="$PROJECT_DIR$/HW7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW5.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +52,7 @@
     "Python.HW4.executor": "Run",
     "Python.HW5.executor": "Run",
     "Python.HW6.executor": "Run",
+    "Python.HW7.executor": "Run",
     "Python.Scenario 2.executor": "Run",
     "Python.Scenario.executor": "Run",
     "Python.hello world.executor": "Run",
@@ -159,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727463809869</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added HW6">
+      <option name="closed" value="true" />
+      <created>1727981665171</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727981665171</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +190,7 @@
     <MESSAGE value="added scenario" />
     <MESSAGE value="added scenario 2" />
     <MESSAGE value="added HW5" />
-    <option name="LAST_COMMIT_MESSAGE" value="added HW5" />
+    <MESSAGE value="added HW6" />
+    <option name="LAST_COMMIT_MESSAGE" value="added HW6" />
   </component>
 </project>
