@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82eaea5d-a684-43f7-95a2-f56831ec0415" name="Changes" comment="added HW6">
-      <change afterPath="$PROJECT_DIR$/HW7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scenario3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.HW7.executor": "Run",
     "Python.Scenario 2.executor": "Run",
     "Python.Scenario.executor": "Run",
+    "Python.Scenario3.executor": "Run",
     "Python.hello world.executor": "Run",
     "Python.playground.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -166,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727981665171</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added HW6">
+      <option name="closed" value="true" />
+      <created>1728067803803</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1728067803803</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
