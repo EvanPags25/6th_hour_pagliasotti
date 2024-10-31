@@ -20,10 +20,9 @@ while i <= 30:
 #3. Create a while loop that repeats until the user
 #inputs the number 0.
 
-# Print numbers until the user enters 0
+
 number = int(input('Enter a number: '))
 
-# iterate until the user enters 0
 while number != 0:
     print(f'You entered {number}.')
     number = int(input('Enter a number: '))
