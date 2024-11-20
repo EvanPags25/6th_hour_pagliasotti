@@ -8,7 +8,7 @@ import time
 #1. Create a for loop with variable i that counts down from 5 to 1
 #and then prints "Hello World!" at the end.
 for k in range(5, 0, -1):
-    time.sleep(0.)
+    time.sleep(0.4)
     print(k)
 print("Hello World")
 #2. Create a for loop that counts up and prints only even numbers
