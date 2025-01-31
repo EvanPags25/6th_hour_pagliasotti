@@ -23,7 +23,3 @@ def numbers(number):
 
 
 #5. Call all of the functions created in 1 - 4 with relevant arguments
-hello_world()
-average(1,6,15)
-animal_list("lion", "chicken", "bear", "panda" , "duck")
-numbers(5)
