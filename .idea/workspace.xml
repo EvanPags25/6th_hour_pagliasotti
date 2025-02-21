@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82eaea5d-a684-43f7-95a2-f56831ec0415" name="Changes" comment="added HW 19">
-      <change afterPath="$PROJECT_DIR$/Scenario6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scenario7.py" afterDir="false" />
+    <list default="true" id="82eaea5d-a684-43f7-95a2-f56831ec0415" name="Changes" comment="added scenario 6 &amp; 7">
+      <change afterPath="$PROJECT_DIR$/HW20.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +59,7 @@
     "Python.HW15.executor": "Run",
     "Python.HW18.executor": "Run",
     "Python.HW2.executor": "Run",
+    "Python.HW20.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
     "Python.HW5.executor": "Run",
@@ -73,6 +73,7 @@
     "Python.Scenario.executor": "Run",
     "Python.Scenario3.executor": "Run",
     "Python.Scenario6.executor": "Run",
+    "Python.Scenario7.executor": "Run",
     "Python.hello world.executor": "Run",
     "Python.playground.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -345,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738352890952</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="added scenario 6 &amp; 7">
+      <option name="closed" value="true" />
+      <created>1738872173828</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1738872173828</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -384,6 +393,7 @@
     <MESSAGE value="added HW 17" />
     <MESSAGE value="added HW 18" />
     <MESSAGE value="added HW 19" />
-    <option name="LAST_COMMIT_MESSAGE" value="added HW 19" />
+    <MESSAGE value="added scenario 6 &amp; 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="added scenario 6 &amp; 7" />
   </component>
 </project>
