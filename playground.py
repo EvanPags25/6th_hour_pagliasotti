@@ -1,7 +1,7 @@
 #Name: Evan Pagliasotti
 #Hour: Hour 6
 #Assignment: Playground
-
+import random
 #hello print
 print('hello')
 
@@ -20,5 +20,10 @@ print('moving on')
 numbers=[230849,893042,10,842]
 print(numbers)
 
-#name list
-names=(
+#try except
+i=5
+while i >= 0:
+    print(i)
+    i -= 1
+    if i<0:
+        raise Exception("i is less than 0")
