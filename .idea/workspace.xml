@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82eaea5d-a684-43f7-95a2-f56831ec0415" name="Changes" comment="HW23">
-      <change afterPath="$PROJECT_DIR$/Scenario8.py" afterDir="false" />
+    <list default="true" id="82eaea5d-a684-43f7-95a2-f56831ec0415" name="Changes" comment="added sceanrio 8">
+      <change afterPath="$PROJECT_DIR$/HW24.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,7 @@
     "Python.HW21.executor": "Run",
     "Python.HW22.executor": "Run",
     "Python.HW23.executor": "Run",
+    "Python.HW24.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
     "Python.HW5.executor": "Run",
@@ -399,7 +400,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741892900580</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="added sceanrio 8">
+      <option name="closed" value="true" />
+      <created>1743013790701</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1743013790701</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +423,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added HW4" />
     <MESSAGE value="added scenario" />
     <MESSAGE value="added scenario 2" />
     <MESSAGE value="added HW5" />
@@ -439,6 +447,7 @@
     <MESSAGE value="HW21" />
     <MESSAGE value="HW22" />
     <MESSAGE value="HW23" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW23" />
+    <MESSAGE value="added sceanrio 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sceanrio 8" />
   </component>
 </project>
